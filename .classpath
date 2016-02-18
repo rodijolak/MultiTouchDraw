@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/ani.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/batik-css.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/GlulogicMT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/mri.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/mt4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/mt4j-desktop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/muito_blobtracking.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jolak/Documents/MyLib/xml-apis-ext.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
